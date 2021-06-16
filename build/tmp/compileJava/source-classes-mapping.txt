@@ -1,0 +1,16 @@
+tasks/BuscarProductoAleatorioHaceb.java
+ tasks.BuscarProductoAleatorioHaceb
+interaction/Esperar.java
+ interaction.Esperar
+tasks/BuscarProductoEnHaceb.java
+ tasks.BuscarProductoEnHaceb
+driver/SeleniumWebDriver.java
+ driver.SeleniumWebDriver
+variablesGlobales/VariablesGlobales.java
+ variablesGlobales.VariablesGlobales
+modelos/Productos.java
+ modelos.Productos
+interaction/ClickProductoAleatorio.java
+ interaction.ClickProductoAleatorio
+uInterfase/HacebUserInterface.java
+ uInterfase.HacebUserInterface

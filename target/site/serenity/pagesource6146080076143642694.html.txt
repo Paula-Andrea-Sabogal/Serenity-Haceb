@@ -1,0 +1,2195 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="es-CO"><head><meta name="language" content="es-CO">
+<meta name="country" content="COL">
+<meta name="currency" content="$">
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="Neveras, nevecones, lavadoras y secadoras, aire acondicionado, calentadores, estufas y pequeños electrodomésticos están en Haceb ¡Compra seguro online!">
+<meta name="Abstract" content="Tuercas">
+<meta name="author" content="Industrias Haceb S.A.">
+<meta name="copyright" content="Industrias Haceb S.A.">
+<meta name="vtex-version" content="1.4.1784.2339">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="shortcut icon" href="/arquivos/haceb-favicon.ico?v=636796460673530000" type="image/x-icon"><link rel="icon" href="/arquivos/haceb-favicon.ico?v=636796460673530000" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="/arquivos/haceb-apple-icon-57x57.png?v=636760924299970000"><link rel="apple-touch-icon" sizes="60x60" href="/arquivos/haceb-apple-icon-60x60.png?v=636760924309930000"><link rel="apple-touch-icon" sizes="72x72" href="/arquivos/haceb-apple-icon-72x72.png?v=636760924320000000"><link rel="apple-touch-icon" sizes="76x76" href="/arquivos/haceb-apple-icon-76x76.png?v=636760924330030000"><link rel="apple-touch-icon" sizes="114x114" href="/arquivos/haceb-apple-icon-114x114.png?v=636760924340230000"><link rel="apple-touch-icon" sizes="120x120" href="/arquivos/haceb-apple-icon-120x120.png?v=636760924350030000"><link rel="apple-touch-icon" sizes="144x144" href="/arquivos/haceb-apple-icon-144x144.png?v=636760924359970000"><link rel="apple-touch-icon" sizes="152x152" href="/arquivos/haceb-apple-icon-152x152.png?v=636760924369970000"><link rel="apple-touch-icon" sizes="180x180" href="/arquivos/haceb-apple-icon-180x180.png?v=636760924379930000"><link rel="icon" type="image/png" sizes="192x192" href="/arquivos/haceb-android-icon-192x192.png?v=636760924279930000"><link rel="icon" type="image/png" sizes="32x32" href="/arquivos/haceb-favicon-32x32.png?v=636760924419970000"><link rel="icon" type="image/png" sizes="96x96" href="/arquivos/haceb-favicon-96x96.png?v=636760924430200000"><link rel="icon" type="image/png" sizes="16x16" href="/arquivos/haceb-favicon-16x16.png?v=636760924410000000"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="/arquivos/haceb-ms-icon-144x144.png?v=636760924449830000"><meta name="theme-color" content="#ffffff"><style>
+    .datepicker {
+        z-index: 1000000;
+    }
+</style><title>Sistema – Haceb</title><script src="https://script.crazyegg.com/pages/versioned/common-scripts/11.1.306.js" type="text/javascript" async=""></script><script type="text/javascript" src="https://cdn.navdmp.com/req?v=8&amp;id=ea3d857dffa3b5269131e24cf09%7C0&amp;acc=52844&amp;tit=Sistema%2520%25u2013%2520Haceb&amp;url=https%253A%2F%2Fwww.haceb.com%2FSistema%2Fbuscavazia%253Fft%253DTuercas&amp;upd=1&amp;ref=https%253A%2F%2Fwww.haceb.com%2F&amp;h1=%25A1Lo%2520sentimos%2521" async=""></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script src="https://tag.navdmp.com/universal.min.js"></script><script src="https://connect.facebook.net/signals/config/312295952744113?v=2.9.41&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://script.crazyegg.com/pages/scripts/0019/6089.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-MRQPJJZ&amp;t=gtm5&amp;cid=859566075.1623812300"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-N130MLN888&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNJJQGJ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.haceb.com/checkout/#/cart';var jscheckoutAddUrl = 'https://www.haceb.com/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'hacebco';var jsnomeLoja = 'hacebco';var jssalesChannel = '1';var defaultStoreCurrency = '$';var localeInfo = {"CountryCode":"COL","CultureCode":"es-CO","CurrencyLocale":{"RegionDisplayName":"Colombia","RegionName":"CO","RegionNativeName":"Colombia","TwoLetterIsoRegionName":"CO","CurrencyEnglishName":"Colombian Peso","CurrencyNativeName":"Peso","CurrencySymbol":"$","ISOCurrencySymbol":"COP","Locale":9226,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/co.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {"searchTerm":"Sistema","isOrder":"0","isCheck":"0","isCart":"0","actionType":"","actionValue":"","login":null,"url":"www.haceb.com","transurl":"www.haceb.com"};</script> 
+<script language="javascript" src="https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/swfobject.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.ajax.wait.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.common.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://vtex.vtexassets.com/_v/public/assets/v1/npm/@vtex/render-extension-loader@0.1.6/lib/render-extension-loader.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.tagmanager.helper.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/v1.14.7/scripts/vtex-events-all.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/v1.14.7/scripts/vtex-analytics.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-i18n/0.7.2/vtex-i18n.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-utils/3.0.8/underscore-extensions.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/currency-format.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex.js/v2.12.0/vtex.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex-id-ui/3.22.2/vtexid-jquery.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.cookie.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/jquery.pager.js?v=1.4.1784.2339" type="text/javascript"></script>
+<link href="/files/haceb-global-modules.css" rel="stylesheet"><link href="/files/haceb-sistema.css" rel="stylesheet"><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script>
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: buscavazia -->
+
+<script>
+vtex.events.addData({"pageCategory":"buscavazia","pageDepartment":null,"pageUrl":"http://www.haceb.com/Sistema/buscavazia?ft=Tuercas","pageTitle":"Sistema – Haceb","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":["44","41","207","33","151","11","67"],"accountName":"hacebco","pageFacets":[]});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-KNJJQGJ');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('otherView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<link rel="canonical" href="https://www.haceb.com/sistema"><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/756775500/?random=1623812308654&amp;cv=9&amp;fst=1623812308654&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059650&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;data=ecomm_pagetype%3Dother%3Becomm_category%3Dbuscavazia&amp;frm=0&amp;url=https%3A%2F%2Fwww.haceb.com%2FSistema%2Fbuscavazia%3Fft%3DTuercas&amp;ref=https%3A%2F%2Fwww.haceb.com%2F&amp;tiba=Sistema%20%E2%80%93%20Haceb&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/756775500/?random=1623812308659&amp;cv=9&amp;fst=1623812308659&amp;num=1&amp;value=756775500&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtm.js&amp;frm=0&amp;url=https%3A%2F%2Fwww.haceb.com%2FSistema%2Fbuscavazia%3Fft%3DTuercas&amp;ref=https%3A%2F%2Fwww.haceb.com%2F&amp;tiba=Sistema%20%E2%80%93%20Haceb&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css"><link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.6.3/css/regular.css"><link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css"></head>
+  <body class="haceb-sistema busqueda-vacia body--has-hover"><div id="ajaxBusy" class="load loading" style="display: none;"><p>Aguarde...</p></div><div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer">
+<!-- CallCenter -->
+</div><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('eaa85283-e685-4f3a-a1a3-b87a7d80c715');
+                                        vtexid.setScopeName('hacebco');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/Sistema/buscavazia?ft=Tuercas',
+                                                        userEmail: '',
+                                                        locale: 'es-CO',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome">
+        <p class="welcome">
+        Bem-vindo!
+        <em><a id="login">Já é cadastrado?
+        </a></em>
+        </p>
+</div><header class="header"><div class="promesasTop slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5085px; transform: translate3d(-2034px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 1017px;" tabindex="-1"><div><div class="noCostShipping" style="width: 100%; display: inline-block;"><a href="/especiales/servicios-haceb" tabindex="-1"><div class="envioGratis fadeIn">INSTALACIÓN GRATIS
+                </div><p>Aplican términos y condiciones</p></a></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" style="width: 1017px;" tabindex="-1"><div><div class="noCostShipping" style="width: 100%; display: inline-block;"><a href="/institucional/cobertura-para-entregas" tabindex="-1"><div class="envioGratis fadeIn">ENVÍO GRATIS
+                   <div class="content-img"><img src="https://hacebco.vteximg.com.br/arquivos/envio-gratis-icon.png?v=637244570518930000" alt="envío gratis" width="100%"></div></div><p>Aplican términos y condiciones</p></a></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 1017px;"><div><div class="noCostShipping" style="width: 100%; display: inline-block;"><a href="/especiales/servicios-haceb" tabindex="0"><div class="envioGratis fadeIn">INSTALACIÓN GRATIS
+                </div><p>Aplican términos y condiciones</p></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" style="width: 1017px;" tabindex="-1"><div><div class="noCostShipping" style="width: 100%; display: inline-block;"><a href="/institucional/cobertura-para-entregas" tabindex="-1"><div class="envioGratis fadeIn">ENVÍO GRATIS
+                   <div class="content-img"><img src="https://hacebco.vteximg.com.br/arquivos/envio-gratis-icon.png?v=637244570518930000" alt="envío gratis" width="100%"></div></div><p>Aplican términos y condiciones</p></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 1017px;" tabindex="-1"><div><div class="noCostShipping" style="width: 100%; display: inline-block;"><a href="/especiales/servicios-haceb" tabindex="-1"><div class="envioGratis fadeIn">INSTALACIÓN GRATIS
+                </div><p>Aplican términos y condiciones</p></a></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div><!--<div class="top-banner">
+        <a href="/ofertas" alt="Ofertas Black">
+            <picture>
+                <source media="(max-width: 640px)" srcset="/arquivos/ofertas-black-top-banner-mobile.jpg?v=636934528312930000"/>
+                <source media="(max-width: 1000px)" srcset="/arquivos/ofertas-black-top-banner-tablet.jpg?v=636934528323430000"/>
+                <img src="https://hacebco.vteximg.com.br/arquivos/ofertas-black-top-banner-desktop-b.jpg?v=636934530587730000" alt="Lavadora Digital D1303 PL"/>
+            </picture>
+        </a>
+    </div>--><div class="header-top-links visible-only-desktop"><div class="Links"><a class="Links-item" href="/institucional/empresa">Empresa</a><a class="Links-item border-left border--green hidden-sm" href="/institucional/proveedores-y-clientes">Proveedores y Clientes</a></div></div><div class="header-container flex"><div class="btn-menu visible-only-mobile"><span class="icon-menu"></span></div><div class="logo"><a href="/"><span class="icon-logo-haceb"></span></a></div><div class="lines-service visible-only-desktop"><div class="service-item"><span class="icon-phone"></span><div class="wrapper-text-item"><a href="tel:+#466"><p class="title-service">Línea Nacional Gratuita <strong>#466</strong></p></a></div></div><div class="service-item"><a href="/tiendas" title="Nuestros puntos de venta"><span class="icon-address"></span><div class="wrapper-text-item"><p class="title-service">Nuestros puntos<span>de venta</span></p></div></a></div><div class="service-item"><a href="https://blog.haceb.com/como-comprar-en-la-tienda-online-haceb-de-forma-segura-y-confiable/" target="_blank" title="Blog" style="display: flex;"><span class="icon-recomendaciones">?</span><div class="wrapper-text-item"><p class="title-service">¿Ayuda con tu compra?</p></div></a></div><div class="service-item"><a href="https://blog.haceb.com/" target="_blank" title="Blog"><span class="icon-blog"></span><div class="wrapper-text-item"><p class="title-service">BLOG</p></div></a></div><div class="service-item"><a href="https://servicio.haceb.com"><img class="logo-haceb-service" src="/arquivos/logo-servicio-header.png?v=637272368070630000" alt=""></a></div></div><div class="search"><fieldset class="search-content"><input type="text" name="search" id="full-search" placeholder="¿Buscas un producto en especial?"><button class="btn btn-search" id="btnSearch" type="submit"><span class="icon-search"></span></button><div class="loader" style="display: none;"><img src="/arquivos/loader-search.gif?v=636788406447900000"></div></fieldset><div class="content-results"><div class="autocomplete results" style="display: none;"></div></div></div><div class="links-account flex"><div class="link-account-item search-desktop"><span class="icon-search"></span><p class="link-account-item__text visible-only-desktop">Search</p></div><div class="link-account-item link-account-user"><a href="#"><span class="icon-user"></span><p class="link-account-item__text visible-only-desktop">Mi perfil</p></a><div class="additional-login-links"><a href="#" class="cdc-fire cdc-login">Ingresar</a><a href="#" class="cdc-fire cdc-register">Registrarte</a></div></div><div class="link-account-item"><a href="/favoritos"><span class="icon-heart"></span><p class="link-account-item__text visible-only-desktop">Favoritos</p></a></div><div class="link-account-item item-cart-icon"><span class="icon-cart"><small class="coutn-items">0</small><p class="link-account-item__text visible-only-desktop">Mi Carrito</p></span><div class="cart flex"><h2 class="title">Resumen de carrito</h2>
+
+<div class="cart--is-empty">
+	<p>No tienes productos en tu carrito</p>
+</div></div><div class="" id="cart-summary-root"></div></div></div></div><div class="wrapper-menu"><div class="cd-dropdown-wrapper"><nav class="cd-dropdown"><ul class="cd-dropdown-content"><li class="has-children electromenores-line"><a class="link-parent" href="/pequenos-electrodomesticos">Pequeños Electrodomésticos<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/pequenos-electrodomesticos">Pequeños Electrodomésticos</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/chocotera-icon-menu.png?v=637557759623270000" alt="Máquinas y bebidas menú"></div><a class="nav__link" href="/pequenos-electrodomesticos/maquinas-y-bebidas"><span class="icon-chocotera visible-only-desktop"></span>Máquinas y bebidas</a></li><!--<li class="no-has-children"><a class="nav__link" href="/pequenos-electrodomesticos/hornos-tostadores-y-planchas"> <span class="icon-hornos-tostadores visible-only-desktop"></span>Hornos Tostadores y Planchas</a></li>--><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/microondas-icon-menu.png?v=637557759633600000" alt="microondas menú"></div><a class="nav__link" href="/pequenos-electrodomesticos/microondas"><span class="icon-microondas visible-only-desktop"></span>Microondas</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/freidoras-icon-menu-a.png?v=637557759627330000" alt="freidoras menú"></div><a class="nav__link" href="/pequenos-electrodomesticos/freidoras"><span class="icon-freidoras visible-only-desktop"></span>Freidoras</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/dispensadorAgua-icon-menu.png?v=637557759623900000" alt="Dispensador de agua menú"></div><a class="nav__link" href="/pequenos-electrodomesticos/dispensador-de-agua"><span class="icon-dispensador-agua visible-only-desktop"></span>Dispensadores de Agua</a></li><!--<li class="no-has-children"><a class="nav__link" href="/robot-aspiradora-haceb-7704353366631/p"> <span class="icon-robot visible-only-desktop"></span>Robot Aspiradora</a></li>--><li class="no-has-children hide"><a class="nav__link" href="/pequenos-electrodomesticos/repuestos"><span class="icon-robot visible-only-desktop"></span>Repuestos</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Pequenos-electrodomesticos-img-menu.jpg?v=637557030880100000" alt="Pequeños electrodomésticos menú"></div></ul></li><li class="has-children lavado-line"><a class="link-parent" href="/lavadoras-y-secadoras">Lavadoras<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/lavadoras-y-secadoras">Lavadoras</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/lavadoras-icon-menu-a.png?v=637557759629700000" alt="Lavadoras menú"></div><a class="nav__link" href="/lavadoras-y-secadoras/lavadoras"><span class="icon-lavadora visible-only-desktop"></span>Lavadoras</a></li><li class="no-has-children hide"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/lavadorasSecadoras-icon-menu.png?v=637557759631570000" alt="Lavadora Secadora menú"></div><a class="nav__link" href="/lavadoras-y-secadoras/lavadora-secadora"><span class="icon-lavadora-secadora visible-only-desktop"></span>Lavadora Secadora</a></li><!--<li class="no-has-children">     <a class="nav__link" href="/lavadoras-y-secadoras/accesorios"> <span class="icon-lavadora-accesorios visible-only-desktop"></span>Accesorios</a></li>--><li class="no-has-children hide"><a class="nav__link" href="/lavadoras-y-secadoras/repuestos"><span class="icon-lavadora-repuestos visible-only-desktop"></span>Repuestos</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Lavadoras-img-menu.jpg?v=637557030878200000" alt="Lavadoras menú"></div></ul></li><li class="has-children refrigeracion-line"><a class="link-parent" href="/refrigeracion">Refrigeración<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/refrigeracion">Refrigeración</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/neveras-icon-menu-a.png?v=637557759635770000" alt="Neveras menú"></div><a class="nav__link" href="/refrigeracion/neveras"><span class="icon-nevera visible-only-desktop"></span>Neveras</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/nevecon-icon-menu.png?v=637557759634700000" alt="Nevecones menú"></div><a class="nav__link" href="/refrigeracion/nevecones"><span class="icon-nevecon visible-only-desktop"></span>Nevecones</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/cavas-icon-menu.png?v=637558257076200000" alt="Cavas menú"></div><a class="nav__link" href="/refrigeracion/cavas-y-minibares"><span class="icon-cava-cervecera visible-only-desktop"></span>Cavas y Minibares</a></li><li class="no-has-children hide"><a class="nav__link" href="/refrigeracion/congeladores"><span class="icon-congeladores-horizontales visible-only-desktop"></span>Congeladores</a></li><!--<li class="no-has-children"><a class="nav__link" href="/refrigeracion/accesorios"> <span class="icon-neveras-accesorios visible-only-desktop"></span>Accesorios</a></li>--><li class="no-has-children hide"><a class="nav__link" href="/refrigeracion/repuestos"><span class="icon-neveras-repuestos visible-only-desktop"></span>Repuestos</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Refrigeracion-img-menu.jpg?v=637557030881500000" alt="Neveras menú"></div></ul></li><li class="has-children cocina-line"><a class="link-parent" href="/cocina">Cocina<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/cocina">Cocina</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/estufasEmpotrar-icon-menu.png?v=637557759624830000" alt="estufas de empotrar menú"></div><a class="nav__link" href="/cocina/estufas-de-empotrar"><span class="icon-estufa-empotrar visible-only-desktop"></span>Estufas de Empotrar</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/estufas-icon-menu-a.png?v=637557759626230000" alt="estufas menú"></div><a class="nav__link" href="/cocina/estufas"><span class="icon-estufas visible-only-desktop"></span>Estufas</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/hornos-icon-menu.png?v=637557759628730000" alt="hornos menú"></div><a class="nav__link" href="/cocina/hornos"><span class="icon-hornos visible-only-desktop"></span>Hornos</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/campanas-icon-menu.png?v=637558257069330000" alt="campanas menú"></div><a class="nav__link" href="/cocina/campanas"><span class="icon-campanas visible-only-desktop"></span>Campanas</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/microondas-icon-menu.png?v=637557759633600000" alt="microondas menú"></div><a class="nav__link" href="/cocina/microondas"><span class="icon-microondas visible-only-desktop"></span>Microondas</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/mesones-icon-menu.png?v=637558257090000000" alt="mesones menú"></div><a class="nav__link" href="/cocina/mesones"><span class="icon-mesones visible-only-desktop"></span>Mesones</a></li><li class="no-has-children hide"><a class="nav__link" href="/lavaplatos-alkimia-haceb-14-puestos-kit-de-instalacion-7704353389791/p"><span class="icon-lavaplatos-only visible-only-desktop"></span>Lavaplatos Alkimia</a></li><!--<li class="no-has-children"><a class="nav__link" href="/cocina/accesorios"> <span class="icon-cocina-accesorios visible-only-desktop"></span>Accesorios</a></li>--><li class="no-has-children hide"><a class="nav__link" href="/combos-cocina"><span class="icon-combos visible-only-desktop"></span>Combos</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Cocina-img-menu.jpg?v=637557030876800000" alt="cocina menú"></div></ul></li><li class="has-children aires-line"><a class="link-parent" href="/selector-calentadores">Calentadores<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/calentadores">Calentadores</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/calentadores-icon-menu-a.png?v=637557759604270000" alt="Calentadores de paso menú"></div><a class="nav__link" href="/calentadores/de-paso"><span class="icon-calentadores-paso visible-only-desktop"></span>De paso</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/calentadoresAcumulacion-icon-menu.png?v=637557759603500000" alt="Calentadores de acumulación menú"></div><a class="nav__link" href="/calentadores/de-acumulacion"><span class="icon-calentadores-acomulacion visible-only-desktop"></span>De acumulación</a></li><li class="no-has-children hide"><a class="nav__link" href="/calentadores/repuestos"><span class="icon-calentadores-repuestos visible-only-desktop"></span>Repuestos</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Calentadores-img-menu.jpg?v=637557030874300000" alt="Calentadores menú"></div></ul></li><li class="has-children aires-line"><a class="link-parent" href="/climatizacion">Climatización<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><div class="listItems-category"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/climatizacion">Climatización</a></li><!--li class="no-has-children"><a class="nav__link" href="/aire-acondicionado/repuestos"> <span class="icon-aire-repuestos visible-only-desktop"></span>Repuestos</a></li--><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/AireInverter-icon-menu.png?v=637557759596600000" alt="Aire Acondicionado Inverter menú"></div><a class="nav__link" href="/climatizacion/aire-acondicionado-inverter"><span class="icon-aire-acondicionado visible-only-desktop"></span>Aire Acondicionado Inverter</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/AireOnOff-icon-menu.png?v=637557759598630000" alt="Aire Acondicionado On-Off menú"></div><a class="nav__link" href="/climatizacion/aire-acondicionado-on-off"><span class="icon-aire-acondicionado visible-only-desktop"></span>Aire Acondicionado On-Off</a></li><li class="no-has-children"><div class="listItems-img"><img src="https://hacebco.vteximg.com.br/arquivos/purificador-icon-menu-a.png?v=637557759636870000" alt="Purificador menú"></div><a class="nav__link" href="/purificador-de-aire-ficus-haceb-7704353418880/p"><span class="icon-purificador visible-only-desktop"></span>Purificador<br> Ficus</a></li></div><div class="imgMenu-category"><img src="https://hacebco.vteximg.com.br/arquivos/Climatizacion-img-menu.jpg?v=637557030875700000" alt="Climatización menú"></div></ul></li><li class="has-children accesorios-line"><a class="link-parent" href="/cargadores-para-carros/electrolineras">Cargadores de carro</a></li><li class="has-children accesorios-line hide"><a class="link-parent" href="/repuestos-y-accesorios">Accesorios</a></li><li class="has-children other-line hide"><a class="link-parent" href="/servicios">Servicios<span class="icon-angle-right"></span></a><ul class="cd-secondary-dropdown is-hidden"><li class="go-back"><a class="nav__link visible-only-mobile " href="#0"> Volver</a></li><li class="see-all"><a class="nav__link" href="/servicios">Servicios</a></li><li class="no-has-children"><a class="nav__link" href="/servicios-haceb" target="_blank"><span class="icon-servicio-haceb visible-only-desktop"></span>Servicio</a></li><li class="no-has-children"><a class="nav__link" href="/servicios/mantenimiento"><span class="icon-mantenimiento visible-only-desktop"></span>Mantenimiento</a></li></ul></li><li class="no-has-children ofertas-line hide"><a class="link-parent" href="/novedades" style="background: transparent;font-size: 1rem;text-align: center;">NOVEDOSOS</a></li><li class="no-has-children ofertas-line"><a class="link-parent" href="/ofertas/super-productos-haceb" style="background: transparent; font-size: 1rem;text-align: center;">SUPER<br><span style="font-size: 0.8rem; width: 100%; color: #00a087; display: block;">PRODUCTOS</span></a></li><!--<li class="no-has-children nev-retro" style="height: 37px;">
+                <a class="link-parent" href="https://www.haceb.com/ofertas/ofertas-flash" style="padding: 0 0 5px;margin: auto;display: flex;justify-content: center;background: #333333;">
+                    <img src="/arquivos/PromoNight-logo-menu-b.png?v=637552230868830000" alt="Promo Night"/>
+                </a>
+            </li>--></ul></nav></div></div><!--<div class="lateralCategories" style="display:none;">
+   <a class="lateralCategories-content" href="/lavadoras-y-secadoras/lavadora-secadora">
+       <div>
+            <span class="icon-lavadora-secadora"></span>
+            <p>LAVADORAS SECADORAS</p>
+       </div>
+    </a>
+    <a class="lateralCategories-content" href="/refrigeracion/neveras">
+       <div>
+            <span class="icon-nevera"></span>
+            <p>NEVERAS</p>
+       </div>
+    </a>
+    <a class="lateralCategories-content" href="/refrigeracion/nevecones">
+       <div>
+            <span class="icon-nevecon"></span>
+            <p>NEVECONES</p>
+       </div>
+    </a>
+    <a class="lateralCategories-content" href="/cocina/estufas-de-empotrar">
+       <div>
+            <span class="icon-estufa-empotrar"></span>
+            <p>ESTUFAS DE EMPOTRAR</p>
+       </div>
+    </a>
+    <a class="lateralCategories-content" href="/calentadores/de-paso">
+       <div>
+            <span class="icon-calentadores-paso"></span>
+            <p>CALENTADORES DE PASO</p>
+       </div>
+    </a>
+</div>--><div class="mantenimiento" style="display:none; position: fixed;width: 100%;height: 100%;top: 0;left: 0;background-color: #fff;z-index: 999999;"><div class="containerPopup" style="    position: relative; margin: 0 auto; width: 100%"><!--<picture>
+            <source media="(max-width: 1000px)" srcset="https://hacebco.vteximg.com.br/arquivos/mantenimiento-dia-siniva-mobile-finalizacion-e.jpg?v=637415869929230000"/>
+            <img src="https://hacebco.vteximg.com.br/arquivos/mantenimiento-dia-siniva-desktop-finalizacion-e.jpg?v=637415869930030000" alt="página en mantenimiento"/>
+        </picture>
+        <div class="countDown-block">
+            <div class="box-container-sd">
+                <div class="countDown-container">
+                    <div class="count-box-sd">
+                        <p id="horas"></p>
+                        <h5>Horas</h5>
+                    </div>
+                    <div class="count-box-sd">
+                        <p id="minutos"></p>
+                        <h5>Minutos</h5>
+                    </div>
+                    <div class="count-box-sd">
+                        <p id="segundos"></p>
+                        <h5>Segundos</h5>
+                    </div>
+                </div>
+            </div>
+        </div>--></div></div></header><div class="content-page"><div class="bg-left"><img src="/arquivos/enchufe.png?v=636769843176600000"></div><div class="content-error">
+  <img src="https://hacebco.vteximg.com.br/arquivos/busqueda.jpg?v=636769835146230000">
+  <h1>¡Lo sentimos!</h1>
+  <p>El producto que buscas no se encuentra disponible!</p>
+<div class="error-actions"><a class="btn btn-default hide" href="#">Ver ofertas</a><a class="btn btn-black" style="color:white !important;" href="/">Ir al inicio</a></div></div><div class="outsanding-shelve" style="margin-top:30px;"><div class="shelve"><h1 class="title"><strong>Los más vendidos</strong></h1><div class="shelve-main n7colunas"><h2>vitrina</h2>
+<ul class="slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3876px; transform: translate3d(-1020px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="refrigeracion--neveras-cavas-minibares-congeladores-en-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="151" data-productid="151" data-skuid="151">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157785-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_2.jpg?v=636815349521770000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" tabindex="-1">
+            <div data-idsku="151" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="-1">
+            <h4 class="shelve__name">Minibar 87 Haceb - 90 Litros - Titanio</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"></div>
+                <div class="flag-entrega24h" style="display: none"></div>
+                <div class="flag-garantiaFabrica" style="display: none"></div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="11" data-productid="11" data-skuid="11">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158436-500-500/HE-MASALA-60-INX-NE-120_7704353376739_2.jpg?v=636815350299370000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" tabindex="-1">
+            <div data-idsku="11" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="-1">
+            <h4 class="shelve__name">Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353376739">7704353376739</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="41" data-productid="41" data-skuid="41">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157609-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_2.jpg?v=636815349358600000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" tabindex="-1">
+            <div data-idsku="41" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Inox 60X50 cm gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="pequenos-electrodomesticos--freidoras-hornos-tostadores-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="207" data-productid="207" data-skuid="207">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158084-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_2.jpg?v=636815349830900000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" tabindex="-1">
+            <div data-idsku="207" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <h4 class="shelve__name">Freidora de Aire sin Aceite Haceb Negra</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353366600">7704353366600</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900</span>
+                            
+                            <!--texto descriptivo del precio <span style="display:none;" class="shelve-old-price promo" data-listprice=""><div class="promo-text">Precio con IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.453.240 </span>-->
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb last" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="67" data-productid="67" data-skuid="67">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157704-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2.jpg?v=636815349444630000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" tabindex="-1">
+            <div data-idsku="67" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 204px;" role="tabpanel" id="slick-slide10"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="44" data-productid="44" data-skuid="44">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" title="Estufa de empotrar Inox 60X43 cm gas natural Haceb" tabindex="0">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157620-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_1.jpg?v=636815349368300000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157626-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_2.jpg?v=636815349372030000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157620-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_1.jpg?v=636815349368300000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" tabindex="0">
+            <div data-idsku="44" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" title="Estufa de empotrar Inox 60X43 cm gas natural Haceb" tabindex="0">
+            <h4 class="shelve__name">Estufa de empotrar Inox 60X43 cm gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 204px;" role="tabpanel" id="slick-slide11"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="33" data-productid="33" data-skuid="33">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" title="Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)" tabindex="0">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157663-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_1.jpg?v=636815349407100000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157666-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_2.jpg?v=636815349409900000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157663-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_1.jpg?v=636815349407100000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" tabindex="0">
+            <div data-idsku="33" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" title="Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)" tabindex="0">
+            <h4 class="shelve__name">Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 204px;" role="tabpanel" id="slick-slide12"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="refrigeracion--neveras-cavas-minibares-congeladores-en-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="151" data-productid="151" data-skuid="151">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="0">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157785-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_2.jpg?v=636815349521770000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" tabindex="0">
+            <div data-idsku="151" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="0">
+            <h4 class="shelve__name">Minibar 87 Haceb - 90 Litros - Titanio</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"></div>
+                <div class="flag-entrega24h" style="display: none"></div>
+                <div class="flag-garantiaFabrica" style="display: none"></div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 204px;" role="tabpanel" id="slick-slide13"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="11" data-productid="11" data-skuid="11">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="0">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158436-500-500/HE-MASALA-60-INX-NE-120_7704353376739_2.jpg?v=636815350299370000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" tabindex="0">
+            <div data-idsku="11" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="0">
+            <h4 class="shelve__name">Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353376739">7704353376739</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 204px;" role="tabpanel" id="slick-slide14"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="41" data-productid="41" data-skuid="41">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="0">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157609-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_2.jpg?v=636815349358600000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" tabindex="0">
+            <div data-idsku="41" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="0">
+            <h4 class="shelve__name">Estufa de empotrar Inox 60X50 cm gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" style="width: 204px;" tabindex="-1" role="tabpanel" id="slick-slide15"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="pequenos-electrodomesticos--freidoras-hornos-tostadores-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="207" data-productid="207" data-skuid="207">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158084-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_2.jpg?v=636815349830900000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" tabindex="-1">
+            <div data-idsku="207" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <h4 class="shelve__name">Freidora de Aire sin Aceite Haceb Negra</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353366600">7704353366600</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900</span>
+                            
+                            <!--texto descriptivo del precio <span style="display:none;" class="shelve-old-price promo" data-listprice=""><div class="promo-text">Precio con IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.453.240 </span>-->
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" style="width: 204px;" tabindex="-1" role="tabpanel" id="slick-slide16"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb last" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="67" data-productid="67" data-skuid="67">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157704-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2.jpg?v=636815349444630000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" tabindex="-1">
+            <div data-idsku="67" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="44" data-productid="44" data-skuid="44">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" title="Estufa de empotrar Inox 60X43 cm gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157620-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_1.jpg?v=636815349368300000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157626-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_2.jpg?v=636815349372030000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157620-500-500/CUB-ARL-CG-60-43-INOX-GN_7704353044669_1.jpg?v=636815349368300000" width="500" height="500" alt="CUB-ARL-CG-60-43-INOX-GN_7704353044669_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" tabindex="-1">
+            <div data-idsku="44" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x43-cm-gas-natural-haceb-7704353044669/p" title="Estufa de empotrar Inox 60X43 cm gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Inox 60X43 cm gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$383.900,00">$383.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="33" data-productid="33" data-skuid="33">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" title="Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157663-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_1.jpg?v=636815349407100000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157666-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_2.jpg?v=636815349409900000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157663-500-500/HORNO-AR-HM-07-ME-INOX_7704353045376_1.jpg?v=636815349407100000" width="500" height="500" alt="HORNO-AR-HM-07-ME-INOX_7704353045376_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" tabindex="-1">
+            <div data-idsku="33" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-microondas-haceb-inox-con-manija-07-20-litros-7704353045376/p" title="Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)" tabindex="-1">
+            <h4 class="shelve__name">Horno Microondas Haceb Inox Con Manija 0.7 (20 Litros)</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$294.900,00">$294.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="refrigeracion--neveras-cavas-minibares-congeladores-en-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="151" data-productid="151" data-skuid="151">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157785-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_2.jpg?v=636815349521770000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157781-500-500/NEV-ASF-87L-CE-1P-TI_7704353314878_1.jpg?v=636815349518470000" width="500" height="500" alt="NEV-ASF-87L-CE-1P-TI_7704353314878_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" tabindex="-1">
+            <div data-idsku="151" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/minibar-87-haceb-90-litros-titanio-7704353314878/p" title="Minibar 87 Haceb - 90 Litros - Titanio" tabindex="-1">
+            <h4 class="shelve__name">Minibar 87 Haceb - 90 Litros - Titanio</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"></div>
+                <div class="flag-entrega24h" style="display: none"></div>
+                <div class="flag-garantiaFabrica" style="display: none"></div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$808.900,00">$808.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="11" data-productid="11" data-skuid="11">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158436-500-500/HE-MASALA-60-INX-NE-120_7704353376739_2.jpg?v=636815350299370000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158433-500-500/HE-MASALA-60-INX-NE-120_7704353376739_1.jpg?v=636815350295600000" width="500" height="500" alt="HE-MASALA-60-INX-NE-120_7704353376739_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" tabindex="-1">
+            <div data-idsku="11" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/horno-electrico-masala-60-cm-inox-con-vidrio-negro-120v-haceb-7704353376739/p" title="Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb" tabindex="-1">
+            <h4 class="shelve__name">Horno eléctrico Masala 60 cm Inox con vidrio negro 120V Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353376739">7704353376739</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$744.900,00">$744.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="41" data-productid="41" data-skuid="41">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157609-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_2.jpg?v=636815349358600000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157604-500-500/CUB-ARL-CG-60-INOX-GN_7704353044638_1.jpg?v=636815349355000000" width="500" height="500" alt="CUB-ARL-CG-60-INOX-GN_7704353044638_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" tabindex="-1">
+            <div data-idsku="41" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-inox-60x50-cm-gas-natural-haceb-7704353044638/p" title="Estufa de empotrar Inox 60X50 cm gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Inox 60X50 cm gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$413.900,00">$413.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="pequenos-electrodomesticos--freidoras-hornos-tostadores-haceb" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="207" data-productid="207" data-skuid="207">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158084-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_2.jpg?v=636815349830900000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/158083-500-500/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000" width="500" height="500" alt="FREIDORA-AIRE-HACEB-NE_7704353366600_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" tabindex="-1">
+            <div data-idsku="207" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/freidora-de-aire-sin-aceite-haceb-negra-7704353366600/p" title="Freidora de Aire sin Aceite Haceb Negra" tabindex="-1">
+            <h4 class="shelve__name">Freidora de Aire sin Aceite Haceb Negra</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style="display:none;"></span>
+                <span class="icon-garantiaFabrica" style="display:none;"></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class=""></li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"><div class="product-field product_field_276 product-field-type_1">
+RealidadAumentada
+<ul>
+<li class="7704353366600">7704353366600</li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900</span>
+                            
+                            <!--texto descriptivo del precio <span style="display:none;" class="shelve-old-price promo" data-listprice=""><div class="promo-text">Precio con IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.453.240 </span>-->
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <span class="shelve-old-price" data-listprice="$326.900,00">$326.900,00</span>
+                            <span class="shelve-best-price" data-bestprice="$293.900,00">$293.900,00</span>
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div><div class="slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" style="width: 204px;" tabindex="-1"><div><li layout="5e885743-1702-4397-8f6c-634164e50cec" class="electrodomesticos-de-cocina-estufas-hornos-campanas-|-haceb last" style="width: 100%; display: inline-block;">
+
+<div class="shelve__item" data-id="67" data-productid="67" data-skuid="67">
+    
+    <div class="shelve__img">
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <div class="shelve-fade-container">
+                <div class="fade-top"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+                <div class="fade-bottom">
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157704-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2.jpg?v=636815349444630000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_2" id="">
+                </div> 
+                <div class="fade-fallback"> 
+                    <img src="https://hacebco.vteximg.com.br/arquivos/ids/157698-500-500/CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1.jpg?v=636815349438700000" width="500" height="500" alt="CUB-ASL-CM-66-CRISTAL-3X1-GN-120_7704353045789_1" id="">
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="shelve-info">
+        <a href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" tabindex="-1">
+            <div data-idsku="67" class="comprarCtaProduct">
+                <span class="btn btn-default">Ver producto</span>
+            </div>
+        </a>
+        <!--<span class="shelve__quickview visible-only-desktop">
+            <a class="fancy-quick" data-fancybox="" data-type="iframe" data-src="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p?lid=13e83ad1-1833-4d3c-abc4-beee41bfcd44" href="javascript:;">
+                <small class="iconquickview icon-vista-rapida">
+                </small>
+            </a>
+        </span>--> 
+        
+        <a class="shelve-link-name" href="https://www.haceb.com/estufa-de-empotrar-cristal-negro-66-cm-hierro-fundido-mixta-120v-gas-natural-haceb-7704353045789/p" title="Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb" tabindex="-1">
+            <h4 class="shelve__name">Estufa de empotrar Cristal negro 66 cm Hierro fundido mixta 120V gas natural Haceb</h4>
+        </a>
+        <div class="extra-tags">
+            <div class="extra-tags-content">
+                <span class="icon-instalacionGratis" style="display:none;"></span>
+                <span class="icon-entrega24h" style=""></span>
+                <span class="icon-garantiaFabrica" style=""></span>
+            </div>
+            <!-- Se utilizan las flags para enviar una especificacion desde el shelve para validaciones en front -->
+            <div class="extra-tags-flags" style="display: none">
+                <div class="flag-instalacionGratis" style="display: none"><div class="product-field product_field_267 product-field-type_1">
+Instalación Gratis
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-entrega24h" style="display: none"><div class="product-field product_field_269 product-field-type_1">
+Entrega 24H
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-garantiaFabrica" style="display: none"><div class="product-field product_field_268 product-field-type_1">
+Garantía de fabrica
+<ul>
+<li class="si">SI</li>
+</ul>
+</div>
+</div>
+                <div class="flag-realidadAumentada" style="display: none"></div>
+            </div>
+        </div>
+                    <fieldset class="shelve-prices">
+                <div class="tags">
+                    
+                    <p class="flag 15-">15%</p>
+                </div>
+                <div class="prices">
+                                                    
+                            <!--texto descriptivo del precio <div style="display:none;" class="IVAprices-content"><span class="shelve-best-priceIVA best" data-bestprice=""><div class="best-text">Precio sin IVA con <span class="dtoDSI">8%</span>de descuento</div>$ 1.221.210</span></div> -->
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900</span>
+                            
+                                        </div>
+                <div class="IVAprices" style="display:none;">
+                                                    <div class="IVAprices-content">
+                                <span class="shelve-best-priceIVA" data-listprice="$946.481">$946.481</span>
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+                <div class="dtoBanco" style="display:none;">
+                                                    <div class="Bancolombiaprices-content">
+                                <span class="shelve-best-priceBanco" data-bestprice="$899.157">$899.157</span>
+                            </div>
+                            
+                            <span class="shelve-best-price" data-bestprice="$1.033.900,00">$1.033.900,00</span>
+                            
+                                        </div>
+            </fieldset>
+            </div>
+   
+    
+    
+</div>
+</li></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control11" aria-controls="slick-slide15" aria-label="2 of 2" tabindex="-1">2</button></li></ul></ul></div></div></div><div class="bg-right"><img src="/arquivos/enchufe1.png?v=636769843183200000"></div></div><div class="haceb--msg--generals"></div><section class="toTop"><div class="toTop__Btn" style="display: none;"><a href="javascript:;"><span class="icon-angle-right"></span></a></div></section><div class="bgPopUp wishlistPopUp" id="wishlist-dialog"><div class="whislist-modal"><span class="icon-close"></span><div class="wl__message-container" id="wl__addWihslist"><p class="successText"></p><a class="btn btn-default" href="/favoritos">Ver Mis
+            Favoritos</a></div><div class="mailSubscriber"><form id="wl__LoginEmailForm" method="Post"><fieldset><input id="wl-email" name="wl-email" placeholder="Ingresa tu correo electrónico" type="email"><input class="btn btn-negro" type="submit" id="wl-button" name="wl-button" value="Agregar a Favoritos"><span class="errorWishlist msg-error" id="errorWishlist">Debes ingresar tu correo electrónico</span></fieldset></form><div id="errorWishlist"></div></div></div></div><div class="buttons-phones"><a class="btn-phone" href="tel:#466"><span class="icon-phone"></span></a><a class="btn-wh" href="https://api.whatsapp.com/send?phone=573164539797" target="_blank"><span class="icon-wh"></span></a></div><div class="overlay-modals"></div><footer class="footer "><!--<div class="empaqueSostenible fadeIn">
+        <img width="100%" src="https://hacebco.vteximg.com.br/arquivos/reciclaje-sostenibilidad.png?v=637374641703300000" alt="Departamento Cocina"/>
+        <div class="empaqueSostenible-txt">
+            <p class="fadeInLeft-last">Generamos valor con la recuperación y reutilización de empaques</p>
+        </div>
+    </div>--><!--<a href="/eventos/1000-razones-para-celebrar-la-navidad">
+        <div class="autoSostenible">
+            <img width="100%" src="https://hacebco.vteximg.com.br/arquivos/100-razones-florante.png?v=637433176191500000" alt="Departamento Cocina"/>
+            <div class="autoSostenible-txt">
+                <p class="fadeInLeft">Nos movilizamos con energía limpia y amigable con el medio ambiente</p>
+            </div>
+        </div>
+    </a>--><a href="/especiales/tienda-360-Ideo"><div class="Tienda360Btn"><span class="icon-tienda360"></span></div></a><!--<div class="newsletterSection">
+        <div class="newsletterSection-title">
+            <div class="newsletterSection-title-content">
+                <div class="icon-newsletter"></div>
+                <h3>REGISTRATE AL NEWSLETTER</h3>
+                <p><strong>y conoce todas nuestras ofertas</strong></p>
+            </div>
+        </div>
+        <form id="newsletterHome" method="GET" action="https://app.embluemail.com//Online/TriggerUrlExterna.aspx" novalidate="novalidate">
+            <input type="hidden" name="key" value="684c7045-a7df-4fbf-aad1-2974473f7b5f"/>
+             <label id="terminosc-error" class="error" for="569167">Este campo es requerido</label>
+            <table class="formularioCampos">
+                <tbody>
+                    <tr class="campo">
+                        <td>
+                            <input type="email" id="email" name="email" required="" placeholder="Ingresa tu correo electrónico" aria-required="true"/>
+                            <label id="txtEmail-error" class="error" for="email">Ingrese un correo válido</label>
+                        </td>
+                    </tr>
+                    <tr class="error-email">
+                        <td colspan="2" style="text-align: center;"></td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="formularioCampos">
+                <tbody>
+                    <tr>
+                        <td colspan="2" style="display: flex;" class="content-termins">
+                            <input id="569167" class="btn-valid" name="569167" type="checkbox" value="SI"/>
+                            <p class="txtLegal">He leído y acepto <a href="/politicas-de-uso-de-datos-personales" target="_blank" class="linkAcceptTerms">política de tratamiento de datos</a> y
+                            <a href="/institucional/autorizacion-contacto" target="_blank">El tratamiento de mis datos personales</a></p>
+                        </td>
+                    </tr>
+                    <tr class="error-569167">
+                        <td colspan="2" style="text-align: center;"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <input type="submit" class="btnForm2 valid" value="SUSCRIBIRME" aria-invalid="false" id="subsribeNewsletter" readonly="readonly"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>--><div class="wrapper-phones"><div class="phones"><h2 class="title">Siempre dispuestos a ayudarte</h2><div class="phonesColumn"><div class="column cols-3"><span class="icon-phone"></span><h3 class="subtitle">Servicio técnico Haceb</h3><p class="outsanding-phone">¡Llama ahora!<a href="tel:#466">#466</a></p><p><strong>Medellín:</strong><a href="tel:0342552100">(4) 2552100</a></p><p><strong>Bogotá:</strong><a href="tel:0314987979">(1) 4897979</a></p><p><strong>Barranquilla:</strong><a href="tel:0353110000">(5) 3110000</a></p><p><strong>Línea nacional gratuita:</strong><a href="tel:018000511000">018000511000</a></p><p></p></div><div class="column cols-3"><span class="icon-wh"></span><h3 class="subtitle">Línea WhatsApp</h3><p class="whatsapp-phone"><a href="https://api.whatsapp.com/send?phone=573164539797" target="_blank"><span class="icon-linea-wh"></span><span class="text-phone">Encuéntranos solo a un clic <br><b>+57 3164539797</b></span></a></p><p>Estamos disponibles de lunes a viernes de 7am a 8pm y sábados de 8am a 6pm. Si nos escribes por fuera de este horario, te contestaremos tan pronto estemos de regreso</p></div><div class="column cols-3"><span class="icon-garantia"></span><h3 class="subtitle">Garantía directa de fábrica</h3><img class="haceb-service" src="/arquivos/servicio-haceb.png?v=636839376348330000" alt="servicio"><p>Todas tus compras cuentan con el respaldo directo de Servicio Haceb</p></div><div class="column cols-3"><span class="icon-agendamiento"></span><h3 class="subtitle">Agendamiento virtual</h3><a href="https://www.gsphaceb.com:8081/?id_proveedor=eeb02881-e149-4bc0-ae43-15441cf68280" target="_blank"><p>Agenda nuestro servicio técnico Haceb con un <span>clic aquí</span></p></a></div></div></div></div><div class="footer__social-links"><ul><li><a href="https://www.instagram.com/haceb_/?hl=es-la" target="_blank"><span class="icon-insta"></span></a></li><li><a href="https://www.facebook.com/Hacebcontigo/" target="_blank"><span class="icon-fb"></span></a></li><li><a href="https://www.youtube.com/channel/UCufO_oUhYiBkb6UIyh9udhA" target="_blank"><span class="icon-yt"></span></a></li><li><a href="https://twitter.com/haceb?lang=es" target="_blank"><span class="icon-tw"></span></a></li></ul></div><div class="footer__content-info"><div class="footer__sitemap"><nav class="sitemap__nav"><li class="has-children"><h4 class="subtile-nav">Corporativo<span class="icon-close visible-only-mobile"></span></h4><ul class="secondary-dropdown is-hidden"><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/empresa">Empresa</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/proveedores-y-clientes">Proveedores y Clientes</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/tiendas">Puntos de venta</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="https://servicio.haceb.com/" target="_blank">Servicio Haceb</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="https://blog.haceb.com/" target="_blank">Blog Haceb</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="https://apps.haceb.com/ClientesPOS/Cliente/Create" target="_blank">Registro para eventos</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/empleados" target="_blank">Empleados Haceb</a></li></ul></li><li class="has-children"><h4 class="subtile-nav">Legales<span class="icon-close visible-only-mobile"></span></h4><ul class="secondary-dropdown is-hidden"><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/terminos-y-condiciones" target="_blank">Términos y condiciones de compra</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/condiciones-de-uso" target="_blank">Condiciones de uso del sitio</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/politicas-de-uso-de-datos-personales" target="_blank">Política de protección de datos personales.</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/cambio-y-devoluciones">Cambios y devoluciones</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/cobertura-para-entregas" target="_blank">Cobertura para entregas</a></li><!--<li class="no-has-children"><a class="sitemap__nav__link" href="https://www.haceb.com/eventos/dia-sin-iva/requisitos">Términos y condiciones - Día sin IVA</a></li>--></ul></li><li class="has-children"><h4 class="subtile-nav">Servicios<span class="icon-close visible-only-mobile"></span></h4><ul class="secondary-dropdown is-hidden"><li class="no-has-children"><a class="sitemap__nav__link" href="/contacto">Contáctenos</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="/institucional/preguntas-frecuentes">Preguntas frecuentes</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="https://www.daviviendacorredores.com/wps/portal/corredores/enlaces/aportes-en-linea/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizQJM3Q09LIz83J1NHQ0CTV2MTAN8DIwMfA31w8EKDHAARwP9KGL041EQhd_4cP0oVCv83f1NDQINnbydDQOdjEJdzaEK8JhRkBsaYZDpqAgAuNmO4g!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/" target="_blank">Pagos de facturas de Servicio</a></li><li class="no-has-children"><a class="sitemap__nav__link" href="https://www.haceb.com/formularios/solicitud-reversion" target="_blank">Solicitud de reversión de pago</a></li></ul></li></nav></div><div class="store-locator"><h2 class="title">Nuestros Puntos de venta</h2><p>Conoce nuestras tiendas y salas de experiencia Haceb</p><div class="store-locator__select flex"><span class="icon-address"></span><select><option value="">Nuestras tiendas</option><option value="0.0">Barranquilla</option><option value="0.1">Bogotá</option><option value="0.2">Bucaramanga</option><option value="0.3">Cali</option><option value="0.4">Cartagena</option><option value="0.5">Copacabana</option><option value="0.6">Medellin</option><option value="0.7">Monteria</option><option value="0.8">Neiva</option><option value="0.9">Pasto</option><option value="0.10">Pereira</option><option value="0.11">Popayan</option><option value="0.12">Rionegro</option><option value="0.13">Soledad</option><option value="0.14">Valledupar</option><option value="0.15">Villavicencio</option></select><span class="icon-angle-right"></span></div></div></div><div class="footer__copy flex"><div class="payment-methods"><p>Nuestros medios de pago</p><img src="https://hacebco.vteximg.com.br/arquivos/imagen-logos-pago-2021-a.png?v=637541455087530000"></div><div class="asociated-logos flex"><div class="logos__secure"><p>Certificados de seguridad</p><img src="https://hacebco.vteximg.com.br/arquivos/digicert.jpg?v=636764198311030000"><img src="/arquivos/pci.jpg?v=636764198340500000"></div><div class="country-brand"><p>Una marca colombiana</p><img src="https://hacebco.vteximg.com.br/arquivos/marca-pais.jpg?v=636764198320570000"></div><div class="country-SIC"><a href="https://www.sic.gov.co/"><img src="https://hacebco.vteximg.com.br/arquivos/industria-comercio-logo-a.jpg?v=637285585787030000"></a></div></div></div><div class="checkingData" style="display:none;"><div class="checkingData-content">Estamos validando tus datos por favor espera un momento</div></div><div class="loginCheckout" style="display:none;"><div class="loginCheckout-content"><p>Por favor inicia sesión para finalizar la compra</p><div class="loginCheckout-content-btn"><a href="#"><button>Iniciar sesión</button></a></div></div></div></footer><div class="copy"><p>Industrias Haceb S.A. - NIT: 890900281-4  - Línea Nacional gratuita <a href="tel:018000511000">018000511000</a> – desde celular al <a href="tel:#466">#466</a> - Correo: <a href="mailto:asesor.servicio@haceb.com">asesor.servicio@haceb.com</a> - Dirección: Calle 59 No. 55 – 80 Copacabana, Antioquia
+        <!--Línea de integridad 018000516939 – --></p><p>Todos los derechos reservados Haceb
+        <a href="http://blacksip.com/" target="_blank"><span class="icon-logo-blacksip"></span></a><a href="https://www.vtex.com/es/" target="_blank"><span class="icon-logo-vtex"></span></a></p></div><div class="overlayResume" style="display:none;"></div><div class="hbPopup-agradecimiento" style="display:none;"><div class="containerPopup"><div class="contentImgForm"><div class="contentTextForm"><span class="icon-close" style="position: absolute; float: right; right: 7px; color: white; top: 7px;"></span><img class="lazyload" data-src="https://hacebco.vteximg.com.br/arquivos/Pop-up-agradecimiento.png?v=636947419976530000"></div></div></div></div><div class="hbPopup-aprobado" style="display:none;"><div class="containerPopup"><div class="contentImgForm"><div class="contentTextForm"><img class="lazyload" data-src="https://hacebco.vteximg.com.br/arquivos/confirmacion-entrega-aprobado.png?v=637082423461170000"></div></div></div></div><div class="hbPopup-rechazado" style="display:none;"><div class="containerPopup"><div class="contentImgForm"><div class="contentTextForm"><img class="lazyload" data-src="https://hacebco.vteximg.com.br/arquivos/confirmacion-entrega-rechazado.png?v=637082423472430000"></div></div></div></div><div class="hbPopup-agradecimientoEmpleados" style="display:none;"><div class="containerPopup"><div class="contentImgForm"><div class="contentTextForm"><img class="lazyload" data-src="https://hacebco.vteximg.com.br/arquivos/empleados-mail-agradecimiento.png?v=637002854487300000"></div></div></div></div><div class="hbPopup-mailRegistrado" style="display:none;"><div class="containerPopup"><div class="contentImgForm"><div class="contentTextForm"><img class="lazyload" data-src="https://hacebco.vteximg.com.br/arquivos/email-registrado.png?v=637098586702330000"></div></div></div></div><div class="unavailableProduct" style="display: none;"><div class="unavailableProduct-content"><div class="unavailableProduct-content-text">El día sin IVA solo puedes comprar un máximo de 3 productos por categoría, por favor <strong>elimina la cantidad de productos  indicados en cada categoría</strong>  a continuación para finalizar la compra o <strong>intenta ingresando otra cédula</strong></div><div class="unavailableProduct-content-info"><div class="blockCategory"><p><span id="categoryValue"><strong>Pequeños electrodomésticos</strong></span>: Elimina por lo menos <span id="quantityValue"><strong>3</strong></span> productos</p><div class="blockCategory-info"><img class="lazyload" data-src="http://hacebco.vteximg.com.br/arquivos/ids/158083-80-80/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000"><p>Freidora de Aire sin Aceite Haceb Negra</p><span>+</span></div><div class="blockCategory-info"><img class="lazyload" data-src="http://hacebco.vteximg.com.br/arquivos/ids/158083-80-80/FREIDORA-AIRE-HACEB-NE_7704353366600_1.jpg?v=636815349828530000"><p>Freidora de Aire sin Aceite Haceb Negra</p><span>+</span></div></div><div class="blockCategory"><p><span id="categoryValue"><strong>Neveras</strong></span>: Elimina por lo menos <span id="quantityValue"><strong>3</strong></span> productos</p><div class="blockCategory-info"><img class="lazyload" data-src="http://hacebco.vteximg.com.br/arquivos/ids/159867-80-80/N-SIBERIA-294-SE-2P-DA-ME-INOX_7704353395440_--1-.jpg?v=637051893755130000"><p>Freidora de Aire sin Aceite Haceb Negra</p><span>+</span></div><div class="blockCategory-info"><img class="lazyload" data-src="http://hacebco.vteximg.com.br/arquivos/ids/159867-80-80/N-SIBERIA-294-SE-2P-DA-ME-INOX_7704353395440_--1-.jpg?v=637051893755130000"><p>Freidora de Aire sin Aceite Haceb Negra</p><span>+</span></div></div><div class="btnContinue active"><a href="#"><button>Continuar</button></a></div></div></div><div class="unavailableProduct-document"><a href="#"><button>Ingresar otra cédula</button></a></div></div><div class="validationForm" style="display:none;"><div class="containerPopup"><div class="contentTextForm"><div class="contentImg"><h3>¡ESTAMOS FELICES POR TU VISITA!</h3><p>Para nosotros es muy importante saber que cumples con los requisitos para que puedas comprar en <strong>el día sin IVA.</strong></p></div><div class="contentForm"><form id="validationPopup" method="GET"><div class="validationCamp"><p>1. Ingresa tu cédula*</p><input type="number" placeholder="11111111" name="Documento" required="" data-error="Este campo es obligatorio" aria-required="true"><label id="document-error" class="error" for="Documento" style="display: none;">Ingresa un documento válido</label></div><div class="validationCamp"><p>2. Selecciona que tipo de persona eres*</p><div class="validationCamp-btn"><button name="nombre" type="button" value="Persona natural" class="active">Persona natural</button><button name="nombre" type="button" value="Persona juridica">Persona jurídica</button></div><label id="persona-error" class="error" for="nombre" style="display: none;">Selecciona una opción</label></div><div class="validationCamp"><input type="submit" class="btnForm2 valid" value="CONFIRMAR" aria-invalid="false" id="confirmValidation" readonly="readonly"></div><div class="enable" style="display:none;"><strong>¡Gracias!</strong> Ahora sí puedes ir por el electrodoméstico ideal para tu hogar</div></form></div></div></div></div><div class="lockValidation" style="display:none;"><div class="lockValidation-content"><h2>LO SENTIMOS</h2><p>Te invitamos a que te comuniques al #466, allí te daremos una solución lo más rápido posible</p><div class="lockValidation-content-social"><ul><li><a href="https://www.instagram.com/haceb_/?hl=es-la" target="_blank"><span class="icon-insta"></span></a></li><li><a href="https://www.facebook.com/Hacebcontigo/" target="_blank"><span class="icon-fb"></span></a></li><li><a href="https://www.youtube.com/channel/UCufO_oUhYiBkb6UIyh9udhA" target="_blank"><span class="icon-yt"></span></a></li><li><a href="https://blog.haceb.com/" target="_blank"><span class="icon-tw"></span></a></li><li><a href="https://twitter.com/haceb?lang=es" target="_blank">BLOG</a></li></ul></div></div></div><script type="text/javascript" src="/arquivos/validate.js?v=636785227079030000"></script><script src="/files/haceb-commons.js"></script><script src="/files/haceb-generales.js"></script><script src="/files/cartSummary.min.js"></script><script src="/files/wishlist.min.js"></script><script src="/files/haceb-storesData.js"></script><script src="/files/haceb-storeLocatorSelector.min.js"></script><link href="/files/datepicker.min.css" rel="stylesheet" type="text/css"><script src="/files/datepicker.min.js"></script><script src="/files/datepicker.es.min.js"></script><div class="wc-root-show"><span id="wc-close"><img src="https://ibangblob.blob.core.windows.net/prod-platform/close-webchat.png" width="18px" height="18px"></span><div id="wc-childimg"><img width="300px" height="300px" src="https://hacebco.vteximg.com.br/arquivos/Chatbot_2021-abril.png?v=637551289030930000" style="display: block;"></div><div id="wc-frame-show" class="wc-show"><iframe id="ifrmBotBotzy" scrolling="no" class="wc-frame-content" width="350" height="500" allowtransparency="true"></iframe></div><script>                var initHeight = 480; var iframeLoaded = false; function onLoadWebChat() { var imgElement = document.getElementById("wc-childimg").children[0]; imgElement.style.display = "block"; } window.addEventListener("load", function () { var imgElement = document.getElementById("wc-childimg"); var closeElement = document.getElementById("wc-close"); imgElement.addEventListener("click", showFrame); closeElement.addEventListener("click", hideFrame); addStyleShett('https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css'); addStyleShett('https://use.fontawesome.com/releases/v5.6.3/css/regular.css'); addStyleShett('https://use.fontawesome.com/releases/v5.6.3/css/solid.css'); onLoadWebChat(); }); function addStyleShett(url) { const head = document.getElementsByTagName('HEAD')[0]; let link = document.createElement('link'); link.rel = 'stylesheet'; link.type = 'text/css'; link.href = url; head.appendChild(link); } function showFrame() { if (!iframeLoaded) { var iframeBot = document.getElementById("ifrmBotBotzy"); iframeBot.setAttribute("src", "https://ibang-webviews.ibang.ai/chats/webchat?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3MjUiLCJuYW1laWQiOiI3MjUiLCJrZXkiOiJPU3h4Y09KeUZWYXdYWEUwemdMZjZBPT0iLCJqdGkiOiJiZDA1Yzk1Yi05YzE2LTRkZGYtOTZlYS0xOWU3YmEzZWEzZDAiLCJpYXQiOjE1OTg5ODkwMTIsInJvbCI6IndlYl9hY2Nlc3MiLCJpZCI6IjcyNSIsIm5iZiI6MTU5ODk4OTAxMSwiZXhwIjoxNTk4OTk2MjExLCJpc3MiOiJ3ZWJBcGkiLCJhdWQiOiJ3ZWJBcGkifQ.AfkmZSfE3DVAA_FBP1BtAXtua0LQamro5GeLQI0Gqng"); iframeLoaded = true; } var frameElement = document.getElementById("wc-frame-show"); var closeElement = document.getElementById("wc-close"); var frameContent = frameElement.getElementsByClassName("wc-frame-content")[0]; frameContent.style.height = initHeight + 'px'; setTimeout(function () { closeElement.style.display = "block"; }, 1000); } function hideFrame() { var frameElement = document.getElementById("wc-frame-show"); var closeElement = document.getElementById("wc-close"); closeElement.style.display = "none"; var frameContent = frameElement.getElementsByClassName("wc-frame-content")[0]; frameContent.style.height = '0px'; }            </script><style>
+    #wc-childimg {
+      position: fixed;
+      bottom: 1%;
+      right: 2%;
+      z-index: 999999;
+      cursor: pointer;
+    }
+
+    #wc-childimg&gt;img {
+      /* width: 500px;
+      height: 75px; */
+      display: none;
+      cursor: pointer;
+    }
+
+    #wc-close {
+      background: transparent;
+      display: none;
+      position: fixed;
+      right: calc(3.5%);
+      bottom: calc(-1.2% + 455px);
+      cursor: pointer;
+      z-index: 1000001;
+    }
+
+    #wc-close img {
+      border-radius: 0 0.3em 0 0;
+    }
+
+    #wc-close-button {
+      width: 18px;
+      height: 18px;
+    }
+
+    #wc-default-icon {
+      font-size: 50px;
+      color: #20C997;
+    }
+
+    .wc-frame-content {
+      right: 2vw;
+      bottom: 0vh;
+      border: none;
+      border-radius: 0.3em;
+      box-shadow: 0 1pt 12pt rgba(0, 0, 0, 0.20);
+      height: 0;
+      width: 360px;
+      position: fixed;
+      z-index: 1000000;
+      vertical-align: bottom;
+      transition: height 0.5s;
+    }
+  </style></div><script src="/files/haceb-home-v2.js"></script><script language="javascript" src="https://hacebco.vteximg.com.br/scripts/track.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/thickbox.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/json2.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.viewpart.callcenterdisclaimer.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.viewpart.ajaxloader_v2.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/social/vtex-view-part.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.commerce.batchbuy.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.jsevents.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.skuevents.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.skuevents.skudatafetcher.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/jquery.livequery.min.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/prettyphoto/js/jquery.prettyphoto.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/prettyphoto/js/lean-prettyphoto.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/vtex.commerce.compare.js?v=1.4.1784.2339" type="text/javascript"></script>
+<script language="javascript" src="https://hacebco.vteximg.com.br/scripts/mobile/vtex.make.mobile.pager.js?v=1.4.1784.2339" type="text/javascript"></script>
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","312295952744113");fbq("set","agent","tmgoogletagmanager","312295952744113");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=312295952744113&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="">(function(c,d,e){o="Navegg";c[o]||(a=d.createElement("script"),a.src=e,b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b),c[o]=c[o]||function(d){c[o].q=c[o].q||[];c[o].q.push([this,d])})})(window,document,"https://tag.navdmp.com/universal.min.js");window.naveggReady=window.naveggReady||[];window.nvg52844=new Navegg({acc:52844});</script><script type="text/javascript" id="" src="https://cdn.embluemail.com/pixeltracking/pixeltracking.js?code=6406d9f8fdf8f8c7b56aa1fc750b04ac"></script><script type="text/javascript" id="" src="https://cdn.embluemail.com/pixeltracking/pixeltracking.js?code=6406d9f8fdf8f8c7b56aa1fc750b04ac"></script><script type="text/javascript" id="">function navigateBtnTop(){118<window.pageYOffset?document.querySelectorAll(".additional-login-links")[0].classList.add("sticky-links"):document.querySelectorAll(".additional-login-links")[0].classList.remove("sticky-links")}function eventFire(a,c){if(a.fireEvent)a.fireEvent("on"+c);else{var b=document.createEvent("Events");b.initEvent(c,!0,!1);a.dispatchEvent(b)}}
+$.ajax({url:"/no-cache/profileSystem/getProfile",method:"get"}).then(function(a){if($(".link-account-item__text")[1].innerHTML="Mi perfil",a.IsUserDefined)localStorage.isUserRegistered?console.log("."):localStorage.isUserRegistered=!0,document.querySelectorAll(".link-account-item")[1].querySelector("a").setAttribute("href","/account");else{document.querySelectorAll(".link-account-item")[1].querySelector("a").setAttribute("href","#");a=document.querySelectorAll(".link-account-item")[1];var c="\x3cdiv class\x3d'additional-login-links'\x3e\x3ca href\x3d'#' class\x3d'cdc-fire cdc-login'\x3eIngresar\x3c/a\x3e\x3ca href\x3d'#' class\x3d'cdc-fire cdc-register'\x3eRegistrarte\x3c/a\x3e\x3c/div\x3e";
+a.insertAdjacentHTML("beforeend",c);window.onscroll=function(){navigateBtnTop()};$(".cdc-register").click(function(b){sessionStorage.setItem("screenloaded","register");b.preventDefault();vtexid.start({returnUrl:"/account"});setTimeout(function(){$(".modal-header").find("[data-i18n]").html("Confirma tu identidad para ingresar o registrarte a nuestra tienda virtual.")},1E3)});$(".cdc-login").click(function(b){sessionStorage.setItem("screenloaded","login");b.preventDefault();vtexid.start({returnUrl:"/account"});
+setTimeout(function(){$(".modal-header").find("[data-i18n]").html("Confirma tu identidad para ingresar o registrarte a nuestra tienda virtual.")},1E3)})}});</script><style>.link-account-user{position:relative;display:block}.header .promesasTop.slick-slider{background-color:#bed02e}.link-account-user:hover .additional-login-links{display:block}.link-account-user .additional-login-links{display:none;position:absolute;width:100%;top:59px;left:0;z-index:99;background-color:#f4f4f4}@media screen and (max-width:768px){.link-account-user .additional-login-links{width:calc(100% + 33px);top:51px}}.sticky-links{top:43px!important;padding:0 11px}.link-account-user .additional-login-links a{display:block;text-decoration:underline;color:#606060;padding:5px 0}.link-account-user .additional-login-links a:hover{color:#bed02e}.ajax-content-loader{display:none}.vtexIdUI-show-app{box-shadow:none;border:none}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-others-send-email,.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-send-email{display:none}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-providers-btn{background:#bed02e;border:2px solid #bed02e!important;height:40px;border-radius:20px!important;box-shadow:none;overflow:hidden;text-shadow:none}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-providers-btn:hover{background-color:transparent!important}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-providers-btn p{color:#000}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-providers-btn p::before{content:'INGRESAR A HACEB'}.vtexIdUI-show-app ul.vtexIdUI-providers-list .vtexIdUI-providers-btn p span{display:none}</style></body><iframe id="ce_proto_iframe" style="display: none;" allowtransparency="true"></iframe></html>

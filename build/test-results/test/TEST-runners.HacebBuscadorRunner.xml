@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runners.HacebBuscadorRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="PC" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+5 Scenarios (?[32m5 passed?[0m)
+15 Steps (?[32m15 passed?[0m)
+2m47.547s
+
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: HU-001 Buscador Haceb
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Buscar el producto en el buscador Haceb Lavadora Digital Atlas 18 kg OX Haceb Grafito
+-------------------------------------------------------------------(hu-001-buscador-haceb;buscar-el-producto-en-el-buscador-haceb-lavadora-digital-atlas-18-kg-ox-haceb-grafito)
+]]></system-err>
+</testsuite>
